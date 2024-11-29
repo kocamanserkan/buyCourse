@@ -1,12 +1,241 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\dtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\dtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\dtos\\courseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\dtos\\courseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\dtos\\featuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\dtos\\featuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CE6809-A336-4602-9F01-1C495E7589A2}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\shared\\freecourse.shared\\dtos\\nocontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CE6809-A336-4602-9F01-1C495E7589A2}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\dtos\\nocontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CE6809-A336-4602-9F01-1C495E7589A2}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\shared\\freecourse.shared\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CE6809-A336-4602-9F01-1C495E7589A2}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EFE85C-BCFC-4FC2-BB7C-E5CA2C1BAE5E}|Solution Items{04EFE85C-BCFC-4FC2-BB7C-E5CA2C1BAE5E}|C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04EFE85C-BCFC-4FC2-BB7C-E5CA2C1BAE5E}|Solution Items{04EFE85C-BCFC-4FC2-BB7C-E5CA2C1BAE5E}|solutionrelative:Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|c:\\users\\serkan.kocaman\\onedrive - logo\\desktop\\serkanproje\\udemymicroservices\\services\\catalog\\freecourseservices.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADA4FBC2-C8E0-4559-B6B2-4825494E2367}|Services\\Catalog\\FreeCourseServices.Catalog\\FreeCourseServices.Catalog.csproj|solutionrelative:services\\catalog\\freecourseservices.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseUpdateDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseUpdateDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:52:04.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseCreateDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseCreateDto.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseCreateDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:50:51.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:49:39.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeatureDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\FeatureDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\FeatureDto.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\FeatureDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\FeatureDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:49:23.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:48:53.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoContent.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
+              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
+              "RelativeToolTip": "Shared\\FreeCourse.Shared\\Dtos\\NoContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:46:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Dtos\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\Dtos\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Dtos\\ResponseDto.cs",
+              "RelativeToolTip": "Shared\\FreeCourse.Shared\\Dtos\\ResponseDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:28:31.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Feature.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:09:08.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Course.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Course.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:06:50.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Category.cs",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:04:59.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ports.txt",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Ports.txt",
+              "RelativeDocumentMoniker": "Ports.txt",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Ports.txt",
+              "RelativeToolTip": "Ports.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T18:50:17.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T18:49:09.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourseServices.Catalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\Serkan.Kocaman\\OneDrive - Logo\\Desktop\\SerkanProje\\UdemyMicroservices\\Services\\Catalog\\FreeCourseServices.Catalog\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog\\FreeCourseServices.Catalog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T18:48:44.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
