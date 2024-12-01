@@ -3,7 +3,7 @@ using MongoDB.Bson;
 
 namespace FreeCourseServices.Catalog.Models
 {
-    public class Feature
+    internal class Feature
     {
         public int Duration { get; set; }
 
